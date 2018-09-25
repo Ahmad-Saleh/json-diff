@@ -1,0 +1,20 @@
+{
+  "name": "Abbas",
+  "dateOfBirth": "1990-01-01",
+  "title": "Developer",
+  "manager":{
+    "name": "Jaber",
+    "title": "Development Manager"
+  },
+  "department": {
+    "departmentName": "Development",
+    "relatedDepartment": [
+      {
+        "departmentName": "Marketing"
+      },
+      {
+        "departmentName": "Human Capital"
+      }
+    ]
+  }
+}

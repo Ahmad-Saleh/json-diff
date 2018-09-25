@@ -1,0 +1,8 @@
+{
+  "dateOfBirth": "1990-01-01",
+  "title": "Senior Developer",
+  "manager": {
+    "name": "Jaber"
+  },
+  "name": "Abbas"
+}

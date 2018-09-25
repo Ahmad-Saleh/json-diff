@@ -1,0 +1,22 @@
+{
+  "dateOfBirth": "1990-05-15",
+  "title": "Developer",
+  "manager":{
+    "name": "Jaber",
+    "title": "IT Manager"
+  },
+  "department": {
+    "departmentName": "Development",
+    "relatedDepartment": [
+      {
+        "departmentName": "Marketing"
+      },
+      {
+        "departmentName": "Human Capital"
+      },
+      {
+        "departmentName": "Business Development"
+      }
+    ]
+  }
+}

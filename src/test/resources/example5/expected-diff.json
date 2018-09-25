@@ -1,0 +1,19 @@
+{
+  "dateOfBirth": "1990-05-15",
+  "manager":{
+    "title": "IT Manager"
+  },
+  "department": {
+    "relatedDepartment": [
+      {
+        "departmentName": "Marketing"
+      },
+      {
+        "departmentName": "Human Capital"
+      },
+      {
+        "departmentName": "Business Development"
+      }
+    ]
+  }
+}
